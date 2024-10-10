@@ -8,10 +8,15 @@ class person:
         print(f'Labdien, {self.name}!')
 
 p = person()
+    skaits=int(input('Ievadiet cilvēku skaitu:'))
+
+''''
+p = person()
 p.set("Peter",20)
 p.output()
 p.labdien()
 a= person()
 a.set("Anna",16)
 a.output()
-a.labdien()
+a.labdien()'
+''''
