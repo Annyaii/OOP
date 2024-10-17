@@ -52,7 +52,7 @@ gray = Color(0,128,0)
 gray.info_print(0,128,0)        
 print(gray.toHex()) 
 
-'''
+
 
 
 
@@ -90,4 +90,5 @@ gray.info_print(0,128,0)
 print(gray.toHex()) 
 print(gray.redColor())
 
+'''
 

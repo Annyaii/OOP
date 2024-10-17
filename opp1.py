@@ -1,3 +1,4 @@
+'''
 class person:
     def set(self,name,age):
         self.name=name
@@ -10,7 +11,6 @@ class person:
 p = person()
     skaits=int(input('Ievadiet cilvēku skaitu:'))
 
-''''
 p = person()
 p.set("Peter",20)
 p.output()
@@ -19,4 +19,5 @@ a= person()
 a.set("Anna",16)
 a.output()
 a.labdien()'
-''''
+'''
+
