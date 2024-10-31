@@ -8,7 +8,7 @@ class Instrument:
     
       if cost > 100:
         summa=cost*0,2+cost
-    def inform_count():
+   def inform_count():
         print(f'Instancescreated: {Instrument.count}')
    def introduce(self):
         print(f'{self.name}{self.tip}{self.cost}')   
