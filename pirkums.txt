@@ -1,0 +1,3 @@
+siers 3 5
+piens 5 7
+lasis 25 6
